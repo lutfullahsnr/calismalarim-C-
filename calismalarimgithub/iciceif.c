@@ -5,6 +5,7 @@ int main()
      printf("Lutfen a ve b degerlerini sirasiyla giriniz.\n");
      scanf("%d%d", &a,&b);
 
+     
      if (a >= b)
      {
           if(a == b)
